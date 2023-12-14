@@ -1,0 +1,31 @@
+/* Estilos Login */
+.login{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.login-container {
+  background-color: #adcce9;
+  width: 600px;
+  height: 400px;
+  border: 2px solid #333;
+  border-radius: 15px;
+}
+.login-container h2{
+  display: flex;
+  justify-content: center;
+  color: #fff;
+}
+.login-container input{
+  background-color: aquamarine;
+  width: 250px;
+  padding-bottom: 10px;
+}
+.login-container form{
+  display: flex;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
